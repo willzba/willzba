@@ -1,7 +1,6 @@
 # Hello, I'm [william] 👋
 
-![Profile Picture](![Google Chrome Dinosaur - Wallpaper](https://github.com/user-attachments/assets/7085b333-be32-4b0d-8adc-819396b2fad4)
-)
+![Profile Picture]()
 
 I'm a software developer with a strong background in building applications using **Java** and **SQL**. I specialize in creating robust and scalable solutions that solve complex problems and improve business efficiency.
 
