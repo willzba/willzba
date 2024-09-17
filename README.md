@@ -1,6 +1,6 @@
 # Hello, I'm [william] 👋
 
-![Profile Picture](Google Chrome Dinosaur - Wallpaper.jpeg)
+![Profile Picture]([Google Chrome Dinosaur - Wallpaper.jpeg](https://github.com/willzba/willzba/blob/main/Google%20Chrome%20Dinosaur%20-%20Wallpaper.jpeg?raw=true))
 
 I'm a software developer with a strong background in building applications using **Java** and **SQL**. I specialize in creating robust and scalable solutions that solve complex problems and improve business efficiency.
 
