@@ -1,6 +1,6 @@
 # Hello, I'm [william] 👋
 
-![Profile Picture]()
+![Profile Picture](Google Chrome Dinosaur - Wallpaper.jpeg)
 
 I'm a software developer with a strong background in building applications using **Java** and **SQL**. I specialize in creating robust and scalable solutions that solve complex problems and improve business efficiency.
 
