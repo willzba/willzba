@@ -10,7 +10,7 @@ I'm a software developer with a strong background in building applications using
 - **Development Tools**: IntelliJ IDEA, Eclipse, Git, Maven, Gradle
 - **Methodologies**: Scrum, Kanban
 
-## 🚀 Featured Projects
+## 🚀 Thanks for visiting my profile. I'm excited to connect and collaborate on exciting projects!
 
 <!--
 **willzba/willzba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
